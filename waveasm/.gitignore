@@ -26,3 +26,5 @@ Makefile
 
 # LLVM build (if building locally)
 llvm-project/
+
+artifacts/
